@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: pink;
+    height: auto;
+    width: auto;
+    color: #333333;
+    font-family: Roboto;
+}
+
+.logo-internet,
+.logo-movies {
+    border-width: 2px;
+    height: 60px;
+    width: 60px;
+    font-size: 19px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 13px;
+    margin-bottom: 10px;
+}
+
+.each-row {
+    padding-top: 20px;
+
+}
+
+.logo-block {
+    border-bottom: 0px;
+    border-bottom-style: none;
+
+}
+
+.cir {
+    font-size: 10px;
+}
+
+.logo-profile {
+
+    border-width: 2px;
+    height: 60px;
+    width: 60px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding-left: 13px;
+    padding-top: 10px;
+
+}
+
+.logo-profile1 {
+
+    border-width: 2px;
+    height: 60px;
+    width: 60px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 10px;
+
+}
+
+.name {
+    font-size: 40px;
+
+}
+
+.right-block {
+    height: auto;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+
+}
+
+.middle-col {
+    height: auto;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+}
+
+.left-block {
+    border-right-style: solid;
+    border-width: 3px;
+    height: auto;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+}
+
+
+.each-row {}
